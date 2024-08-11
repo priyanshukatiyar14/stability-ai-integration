@@ -26,7 +26,6 @@ This Django application generates three images in parallel using the Stability A
 git clone https://github.com/priyanshukatiyar14/stability-ai-integration-api.git
 cd stability-ai-integration-api
 ```
-````
 
 ### 2. Create and Activate Virtual Environment
 
@@ -132,7 +131,4 @@ The application also simulates storing the generated image URLs in the Django da
 ## Contact
 
 For any inquiries or support, please reach out to [priyanshukatiyar111@gmail.com](mailto:priyanshukatiyar111@gmail.com).
-
-```
-
-```
+````
