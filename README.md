@@ -1,6 +1,3 @@
-# stability-ai-integration
-
-````markdown
 # Stability AI Text-to-Image Generator
 
 This Django application generates three images in parallel using the Stability AI's Text-to-Image generation API. The application uses Celery for parallel processing to manage asynchronous API calls.
@@ -131,4 +128,3 @@ The application also simulates storing the generated image URLs in the Django da
 ## Contact
 
 For any inquiries or support, please reach out to [priyanshukatiyar111@gmail.com](mailto:priyanshukatiyar111@gmail.com).
-````
