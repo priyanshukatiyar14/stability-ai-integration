@@ -94,7 +94,7 @@ redis-server
 Run the Celery worker to handle background tasks:
 
 ```bash
-celery -A stability_ai worker --loglevel=info
+celery -A stability_ai worker -P eventlet
 ```
 
 ### 8. Start Django Server
